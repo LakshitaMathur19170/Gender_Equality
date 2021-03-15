@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: linear-gradient(90deg, #ff6464 50%, #5ac8fa 50%);
+}
+.editor{
+    background-color: transparent;
+    margin-top: 10%;
+    margin-left: 25%;
+    padding: 5%;
+    
+    
+}
+p {
+    background-color: transparent;
+    margin-top: -10%;
+    margin-left: 11%;
+    padding: 2%;
+    color: bisque;
+    font-size: 60px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.male{ 
+    margin-top: 5%;
+    background-color: transparent;  
+    height: 10%;
+    width: 10%;
+}
+.female{
+    background-color: transparent;
+    margin-left: 60%;
+    margin-top: -40%;
+    margin-bottom: 2%;
+    height: 10%;
+    width: 10%;
+}
